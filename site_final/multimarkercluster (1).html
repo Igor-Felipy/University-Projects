@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  	<meta charset="utf-8">
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    	<title>Multi Marker Clustering</title>
+    		<style type="text/css">
+    		html, body, #map { height: 100%; width: 100%; margin: 0px; padding: 0px }
+    		</style>
+	</head>
+	<body>
+			<div id="map"></div>
+
+<script type="text/javascript">
+	function initMap() {
+
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 13,
+    center: {
+    	lat: -23.5566225, 
+    	lng: -46.6589636
+    }
+  });
+  var infoWin = new google.maps.InfoWindow();
+  // Add some markers to the map.
+  // Note: The code uses the JavaScript Array.prototype.map() method to
+  // create an array of markers based on a given "locations" array.
+  // The map() method here has nothing to do with the Google Maps API.
+  var markers = locations.map(function(location, i) {
+    var marker = new google.maps.Marker({
+      position: location
+    });
+    google.maps.event.addListener(marker, 'click', function(evt) {
+      infoWin.setContent(location.info);
+      infoWin.open(map, marker);
+    })
+    return marker;
+  });
+
+  // markerCluster.setMarkers(markers);
+  // Add a marker clusterer to manage the markers.
+  var markerCluster = new MarkerClusterer(map, markers, {
+    imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
+  });
+
+}
+var locations = [{
+  lat: -23.5566225,
+  lng: -46.6589636,
+  info: "CAMPUS PAULISTA"
+}, {
+  lat: -23.5536109,
+  lng: -46.6551156,
+  info: "CAMPUS AUGUSTA"
+}, {
+  lat: -23.5593428,
+  lng: -46.6066983,
+  info: "CAMPUS MOOCA"
+}, {
+  lat: -23.555225,
+  lng: -46.6600557,
+  info: "CAMPUS BELA VISTA"
+}, ];
+
+google.maps.event.addDomListener(window, "load", initMap);
+</script>
+
+<script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js">
+    </script>
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBso3G-Ufg3i37nFKl_zpBgiz9DI0cbgCI&callback=initMap"></script>
+
+</body>
+</html>
+

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <title>Donate Now</title>
+    <style type="text/css">
+    		html, body, #map { height: 100%; width: 100%; margin: 0px; padding: 0px }
+    		</style>
+</head>
+<body>
+    <div id='historia'>
+        <h1>Eles precisam de você!</h1>
+        <h2>O ciclone Idai matou mais de mil pessoa no sudeste da África</h2>
+        <p>Passou de 1 mil o número de mortos pelo ciclone Idai, que devastou Moçambique, Zimbábue e Malaui há quase um mês. As autoridades locais registraram os seguintes balanços de vítimas nesta quarta-feira (10):
+
+            Moçambique: 602 mortos;
+            Zimbábue: 344 mortos;
+            Malaui: 59 mortos.</p>
+        <h2>A tragédia não é o Unico problema!</h2>
+        <p>Os casos de cólera, inclusive, passaram de 4 mil nesta quarta – a doença é transmitida pela contaminação de água e alimentos por uma bactéria. Sete pessoas morreram por causa do cólera.</p>
+        <p>A maioria dos casos do cólera foi registrada na cidade portuária de Beira, em Moçambique, a mais devastada pelo ciclone Idai. Os ventos destruíram casas e causaram enchentes, matando centenas de pessoas e deixando muitos desabrigados.</p>
+        <h6>Fonte: <a href="https://g1.globo.com/mundo/noticia/2019/04/10/numero-de-mortos-pelo-ciclone-idai-no-sudeste-da-africa-passa-de-1-mil.ghtml">G1</a></h6>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id='map'></div>
+        <script type="text/javascript">
+            function initMap() {
+        
+          var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 5,
+            center: {
+                lat: -17.8316, 
+                lng: 31.0485
+            }
+          });
+          var infoWin = new google.maps.InfoWindow();
+          // Add some markers to the map.
+          // Note: The code uses the JavaScript Array.prototype.map() method to
+          // create an array of markers based on a given "locations" array.
+          // The map() method here has nothing to do with the Google Maps API.
+          var markers = locations.map(function(location, i) {
+            var marker = new google.maps.Marker({
+              position: location
+            });
+            google.maps.event.addListener(marker, 'click', function(evt) {
+              infoWin.setContent(location.info);
+              infoWin.open(map, marker);
+            })
+            return marker;
+          });
+        
+          // markerCluster.setMarkers(markers);
+          // Add a marker clusterer to manage the markers.
+          var markerCluster = new MarkerClusterer(map, markers, {
+            imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
+          });
+        
+        }
+        var locations = [{
+          lat: -25.967,
+          lng: 32.583,
+          info: "Moçambique"
+        }, {
+          lat: -17.8316,
+          lng: 31.0485,
+          info: "Zimbábue"
+        }, {
+          lat: -13.9833,
+          lng: 33.7833,
+          info: "Malaui"
+        },];
+        
+        google.maps.event.addDomListener(window, "load", initMap);
+        </script>
+        
+        <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js">
+            </script>
+        
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBso3G-Ufg3i37nFKl_zpBgiz9DI0cbgCI&callback=initMap"></script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div id='pagamento'>
+    <script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
+    <script>paypal.Buttons().render('body');</script>
+    </div>
+
+    <div id='facebook'>
+
+    </div>
+    <div id='camera'>
+    </div>
+
+</body>
+</html>
