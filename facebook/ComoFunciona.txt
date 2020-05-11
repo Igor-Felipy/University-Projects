@@ -1,0 +1,1 @@
+O facebook não permite o login de estranhos (qualquer um que não seja o admin) sem que o desenvolvedor faça a verificação individual, e por causa do corona virus não está habilitado a opção de verificação individual(ver imagem autorização_fb), sendo assim vou mandar o codigo (index.html) e um video mostrando a eficacia do mesmo(fazendo login.mp4)
