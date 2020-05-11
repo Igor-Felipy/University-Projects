@@ -1,9 +1,9 @@
-<!doctype html>
+<!DOCTYPE html>
 
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>WebcamJS Test Page</title>
+	<title>FAMAPI</title>
 	<style type="text/css">
 		body { font-family: Helvetica, sans-serif; }
 		h2, h3 { margin-top:0; }
@@ -13,42 +13,29 @@
 	</style>
 </head>
 <body>
-	<div id="results">Your captured image will appear here...</div>
+	<div id="results">Sua captura aparece aqui!</div>
 	
-	<h1>WebcamJS Test Page</h1>
-	<h3>Demonstrates 240x240 cropped capture &amp; display</h3>
+	<h1>Webcam</h1>
 	
 	<div id="my_camera"></div>
 	
 	<!-- First, include the Webcam.js JavaScript Library -->
-	<script type="text/javascript" src="../webcam.min.js"></script>
+	<script type="text/javascript" src="webcam.min.js"></script>
 	
 	<!-- Configure a few settings and attach camera -->
 	<script language="JavaScript">
 		Webcam.set({
-			// live preview size
-			width: 320,
-			height: 240,
-			
-			// device capture size
-			dest_width: 320,
-			dest_height: 240,
-			
-			// final cropped size
-			crop_width: 240,
-			crop_height: 240,
-			
-			// format and quality
+			width: 420,
+			height: 440,
 			image_format: 'jpeg',
-			jpeg_quality: 90
+			jpeg_quality: 100
 		});
-		
 		Webcam.attach( '#my_camera' );
 	</script>
 	
 	<!-- A button for taking snaps -->
 	<form>
-		<input type=button value="Take Snapshot" onClick="take_snapshot()">
+		<input type=button value="Clique Aqui" onClick="take_snapshot()">
 	</form>
 	
 	<!-- Code to handle taking the snapshot and displaying it locally -->
@@ -58,7 +45,7 @@
 			Webcam.snap( function(data_uri) {
 				// display results in page
 				document.getElementById('results').innerHTML = 
-					'<h2>Here is your image:</h2>' + 
+					'<h2>Aqui está sua imagem:</h2>' + 
 					'<img src="'+data_uri+'"/>';
 			} );
 		}
