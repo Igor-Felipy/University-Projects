@@ -13,19 +13,25 @@
     <div id='historia'>
 
         <h1>Eles precisam de você!</h1>
-        <img src="ap19094615698131.jpg">
+        <img src="ap19094615698131.jpg" style="width:700px;height:500px;">
         <h1>O donate now precisa de você!</h1>
-        <h2>O ciclone Idai matou mais de mil pessoa no sudeste da África</h2>
-        <p>Passou de 1 mil o número de mortos pelo ciclone Idai, que devastou Moçambique, Zimbábue e Malaui há quase um mês. As autoridades locais registraram os seguintes balanços de vítimas nesta quarta-feira (10):
-
-            Moçambique: 602 mortos;
-            Zimbábue: 344 mortos;
-            Malaui: 59 mortos.</p>
-            <img src="ciclone-idai-caminho.jpg">
-        <h2>A tragédia não é o Unico problema!</h2>
-        <img src="ap19093352723215.jpg">
-        <p>Os casos de cólera, inclusive, passaram de 4 mil nesta quarta – a doença é transmitida pela contaminação de água e alimentos por uma bactéria. Sete pessoas morreram por causa do cólera.</p>
-        <p>A maioria dos casos do cólera foi registrada na cidade portuária de Beira, em Moçambique, a mais devastada pelo ciclone Idai. Os ventos destruíram casas e causaram enchentes, matando centenas de pessoas e deixando muitos desabrigados.</p>
+        <h2>O ciclone Idai matou mais de mil pessoas no sudeste da África</h2>
+        <p>Passou de 1 mil o número de mortos pelo ciclone Idai, que devastou Moçambique, Zimbábue e Malaui há quase um mês.
+          <br>As autoridades locais registraram os seguintes balanços de vítimas nesta quarta-feira (10/04/2019):
+          <ul>
+            <li>Moçambique: 602 mortos;</li>
+            <li>Zimbábue: 344 mortos;</li>
+            <li>Malaui: 59 mortos.</li>
+          </ul>
+        </p>
+            <img src="ciclone-idai-caminho.jpg " style="width:500px; height:auto;">
+        <h2>A tragédia não é o Único problema!</h2>
+        <img src="ap19093352723215.jpg" style="width:700px;height:500px;">
+        <p>Os casos de cólera, inclusive, passaram de 4 mil nesta quarta – 
+         <br>a doença é transmitida pela contaminação de água e alimentos por uma bactéria.
+           Sete pessoas morreram por causa do cólera.</p>
+        <p>A maioria dos casos do cólera foi registrada na cidade portuária de Beira, em Moçambique, a mais devastada pelo ciclone Idai.
+          <br>Os ventos destruíram casas e causaram enchentes, matando centenas de pessoas e deixando muitos desabrigados.</p>
         <h6>Fonte: <a href="https://g1.globo.com/mundo/noticia/2019/04/10/numero-de-mortos-pelo-ciclone-idai-no-sudeste-da-africa-passa-de-1-mil.ghtml">G1</a></h6>
     </div>
 
@@ -111,33 +117,45 @@
 
 
 
-    <div id='camera'>
-      <h1>Tire uma foto sua para colocar no nosso mural de apoiadores!</h1>
-      <script type="text/javascript" src="../webcam.min.js"></script>
-      <script language="JavaScript">
-        Webcam.set({
-          width: 420,
-          height: 440,
-          image_format: 'jpeg',
-          jpeg_quality: 100
-        });
-        Webcam.attach( '#my_camera' );
-      </script>
-      <form>
-        <input type=button value="Clique Aqui" onClick="take_snapshot()">
-      </form>
-      <script language="JavaScript">
-        function take_snapshot() {
-          // take snapshot and get image data
-          Webcam.snap( function(data_uri) {
-            // display results in page
-            document.getElementById('results').innerHTML = 
-              '<h2>Aqui está sua imagem:</h2>' + 
-              '<img src="'+data_uri+'"/>';
-          } );
-        }
-      </script>
+    <div id='camera'><div id="results">Sua captura aparece aqui!</div>
+	
+    <h1>Webcam</h1>
+    
+    <div id="my_camera"></div>
+    
+    <!-- First, include the Webcam.js JavaScript Library -->
+    <script type="text/javascript" src="webcam.min.js"></script>
+    
+    <!-- Configure a few settings and attach camera -->
+    <script language="JavaScript">
+      Webcam.set({
+        width: 420,
+        height: 440,
+        image_format: 'jpeg',
+        jpeg_quality: 100
+      });
+      Webcam.attach( '#my_camera' );
+    </script>
+    
+    <!-- A button for taking snaps -->
+    <form>
+      <input type=button value="Clique Aqui" onClick="take_snapshot()">
+    </form>
+    
+    <!-- Code to handle taking the snapshot and displaying it locally -->
+    <script language="JavaScript">
+      function take_snapshot() {
+        // take snapshot and get image data
+        Webcam.snap( function(data_uri) {
+          // display results in page
+          document.getElementById('results').innerHTML = 
+            '<h2>Aqui está sua imagem:</h2>' + 
+            '<img src="'+data_uri+'"/>';
+        } );
+      }
+    </script>
+    
     </div>
-
+<footer></footer>
 </body>
 </html>
