@@ -7,14 +7,23 @@ html, body, #map {
      }
 
 body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: lightblue;
+    margin-right:150;
+    margin-left:150;
+}
+#historia{
+    img {
+        width:500px;
+        height:600px;
+    }
 }
 #pagamento {
-
+    img:;
 }
 
 #facebook {
-
+    img:;
 }
 
 #camera {
