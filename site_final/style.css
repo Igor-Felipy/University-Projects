@@ -5,8 +5,9 @@ html, body, #map {
        padding: 0px;
        text-align: center;
      }
-#historia {
 
+body {
+    background-color: lightblue;
 }
 #pagamento {
 
