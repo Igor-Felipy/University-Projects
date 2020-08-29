@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Finalizar" itemID="5ceb36c7-00000222" lastModified="1558918855">
+  <timeline>
+    <DOMTimeline name="Finalizar">
+      <layers>
+        <DOMLayer name="Camada 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00CC00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6400 1440S2|0 1440!0 1440|0 0!0 0|6400 0!6400 0|6400 1440"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="192.7" height="58.05" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="59.95" ty="11.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Finalizar</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="50" bitmapSize="1000" face="TrebuchetMS"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

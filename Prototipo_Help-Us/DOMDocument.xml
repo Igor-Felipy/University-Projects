@@ -1,0 +1,1210 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="480" height="800" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" gridVisible="true" rulerVisible="true" vanishingPoint3DX="240" vanishingPoint3DY="400" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveIntervalMinutes="5">
+     <media>
+          <DOMBitmapItem name="black leaf.png" itemID="5ca7979d-000001d9" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/black leaf.png" sourceLastImported="1554480456" externalFileCRC32="3206459389" externalFileSize="8306" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="black leaf.png" bitmapDataHRef="M 4 1554487197.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="btnhome.png" itemID="5ca515e0-00000240" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/btnhome.png" sourceLastImported="1554079099" externalFileCRC32="1136165313" externalFileSize="804" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="btnhome.png" bitmapDataHRef="M 5 1554322912.dat" frameRight="1440" frameBottom="1440"/>
+          <DOMBitmapItem name="btnmenu.png" itemID="5ca515eb-00000245" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/btnmenu.png" sourceLastImported="1554078442" externalFileCRC32="4025960671" externalFileSize="267" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="btnmenu.png" bitmapDataHRef="M 6 1554322923.dat" frameRight="1440" frameBottom="1440"/>
+          <DOMBitmapItem name="cavaco.png" itemID="5ca7979d-000001de" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/cavaco.png" sourceLastImported="1554486566" externalFileCRC32="107111941" externalFileSize="21395" originalCompressionType="lossless" quality="50" href="cavaco.png" bitmapDataHRef="M 5 1554487197.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="cropped-icone-quili-peixe.png" itemID="5ceb2e22-0000020a" sourceExternalFilepath="C:/Users/igor/Desktop/PI/prototipos/botoes/icones empresas/cropped-icone-quili-peixe.png" sourceLastImported="1554324411" externalFileCRC32="3585549182" externalFileSize="64941" originalCompressionType="lossless" quality="50" href="cropped-icone-quili-peixe.png" bitmapDataHRef="M 18 1558916642.dat" frameRight="10240" frameBottom="10240"/>
+          <DOMBitmapItem name="cruz vermelha.png" itemID="5ca7979d-000001e3" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/cruz vermelha.png" sourceLastImported="1554478927" externalFileCRC32="1935449120" externalFileSize="8186" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cruz vermelha.png" bitmapDataHRef="M 6 1554487197.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="fish gamer.png" itemID="5ca7979d-000001e8" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/fish gamer.png" sourceLastImported="1554479616" externalFileCRC32="1788646652" externalFileSize="12741" originalCompressionType="lossless" quality="50" href="fish gamer.png" bitmapDataHRef="M 7 1554487197.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="formando sonhos.png" itemID="5ca7979d-000001ed" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/formando sonhos.png" sourceLastImported="1554479904" externalFileCRC32="1031907088" externalFileSize="11480" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="formando sonhos.png" bitmapDataHRef="M 8 1554487197.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="funky.png" itemID="5ca7979e-000001f2" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/funky.png" sourceLastImported="1554486718" externalFileCRC32="483603472" externalFileSize="19505" originalCompressionType="lossless" quality="50" href="funky.png" bitmapDataHRef="M 9 1554487198.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="hoosier.png" itemID="5ca7979e-000001f7" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/hoosier.png" sourceLastImported="1554485314" externalFileCRC32="1949859152" externalFileSize="18029" originalCompressionType="lossless" quality="50" href="hoosier.png" bitmapDataHRef="M 10 1554487198.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="left hand.png" itemID="5ca7979e-000001fc" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/left hand.png" sourceLastImported="1554485588" externalFileCRC32="815579673" externalFileSize="11736" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="left hand.png" bitmapDataHRef="M 11 1554487198.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="logo help us.png" itemID="5ca515f9-0000024a" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/logo help us.png" sourceLastImported="1554079934" externalFileCRC32="830932561" externalFileSize="561" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="logo help us.png" bitmapDataHRef="M 7 1554322937.dat" frameRight="1440" frameBottom="1440"/>
+          <DOMBitmapItem name="lotus flower.png" itemID="5ca7979e-00000201" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/lotus flower.png" sourceLastImported="1554479167" externalFileCRC32="1774700371" externalFileSize="12974" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="lotus flower.png" bitmapDataHRef="M 12 1554487198.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="medicos sem fronteiras.png" itemID="5ca7979e-00000206" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/medicos sem fronteiras.png" sourceLastImported="1554485812" externalFileCRC32="2447572921" externalFileSize="11820" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="medicos sem fronteiras.png" bitmapDataHRef="M 13 1554487198.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="ninja.png" itemID="5ca7979e-0000020b" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/ninja.png" sourceLastImported="1554486920" externalFileCRC32="3326950847" externalFileSize="18891" originalCompressionType="lossless" quality="50" href="ninja.png" bitmapDataHRef="M 14 1554487198.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="ong de rua.png" itemID="5ca7979e-00000210" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/ong de rua.png" sourceLastImported="1554486022" externalFileCRC32="1638084375" externalFileSize="21667" originalCompressionType="lossless" quality="50" href="ong de rua.png" bitmapDataHRef="M 15 1554487198.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="skip.png" itemID="5ca7979e-00000215" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/skip.png" sourceLastImported="1554486429" externalFileCRC32="1192877552" externalFileSize="14497" originalCompressionType="lossless" quality="50" href="skip.png" bitmapDataHRef="M 16 1554487198.dat" frameRight="9600" frameBottom="2000"/>
+          <DOMBitmapItem name="vegan burguer.png" itemID="5ca7979e-0000021a" sourceExternalFilepath="C:/Users/igor/Desktop/prototipos/botoes/caixas preenchidas/vegan burguer.png" sourceLastImported="1554479429" externalFileCRC32="966621974" externalFileSize="8880" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="vegan burguer.png" bitmapDataHRef="M 17 1554487198.dat" frameRight="9600" frameBottom="2000"/>
+     </media>
+     <symbols>
+          <Include href="Apoie o fish.xml" loadImmediate="false" itemID="5ceb3207-00000218" lastModified="1558917639"/>
+          <Include href="botaofeed.xml" loadImmediate="false" itemID="5ca7a128-000002a8" lastModified="1554489640"/>
+          <Include href="btnapoio.xml" loadImmediate="false" itemID="5ca79e30-00000282" lastModified="1554488880"/>
+          <Include href="btndoação.xml" loadImmediate="false" itemID="5ca79e4c-0000028b" lastModified="1554488908"/>
+          <Include href="btnfeed.xml" loadImmediate="false" itemID="5ca79e3e-00000287" lastModified="1554488894"/>
+          <Include href="btnmenu.xml" loadImmediate="false" itemID="5ca7a000-00000294" lastModified="1554489344"/>
+          <Include href="btnmenu2.xml" loadImmediate="false" itemID="5ca7a0b3-00000299" lastModified="1554489523"/>
+          <Include href="btnmenu3.xml" loadImmediate="false" itemID="5ca7a0dd-0000029e" lastModified="1554489565"/>
+          <Include href="btnmenu4.xml" loadImmediate="false" itemID="5ca7a104-000002a3" lastModified="1554489604"/>
+          <Include href="btnvaquinha.xml" loadImmediate="false" itemID="5ca79e5b-0000028f" lastModified="1554488923"/>
+          <Include href="Finalizar.xml" loadImmediate="false" itemID="5ceb36c7-00000222" lastModified="1558918855"/>
+          <Include href="Símbolo 1.xml" loadImmediate="false" itemID="5ceb313a-0000020f" lastModified="1558917435"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Cena 1" currentFrame="40" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;guideline direction="h"&gt;0&lt;/guideline&gt;&lt;guideline direction="h"&gt;91&lt;/guideline&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;guideline direction="h"&gt;10&lt;/guideline&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;/guidelines&gt;'>
+               <layers>
+                    <DOMLayer name="Actions" color="#FF4FFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_5.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_9);
+
+function fl_ClickToGoToAndStopAtFrame_9(event:MouseEvent):void
+{
+	gotoAndStop(41);
+}
+
+/* Parar neste quadro
+A linha de tempo do Flash vai parar/pausar no quadro em que você inserir este código.
+Também pode ser usado para parar/pausar a linha de tempo dos clipes de filme.
+*/
+
+stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+/* Parar neste quadro
+A linha de tempo do Flash vai parar/pausar no quadro em que você inserir este código.
+Também pode ser usado para parar/pausar a linha de tempo dos clipes de filme.
+*/
+
+stop();
+
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_6.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_10);
+
+function fl_ClickToGoToAndStopAtFrame_10(event:MouseEvent):void
+{
+	gotoAndStop(21);
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" duration="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+/* Parar neste quadro
+A linha de tempo do Flash vai parar/pausar no quadro em que você inserir este código.
+Também pode ser usado para parar/pausar a linha de tempo dos clipes de filme.
+*/
+
+stop();
+
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_7.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_11);
+
+function fl_ClickToGoToAndStopAtFrame_11(event:MouseEvent):void
+{
+	gotoAndStop(21);
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+/* Parar neste quadro
+A linha de tempo do Flash vai parar/pausar no quadro em que você inserir este código.
+Também pode ser usado para parar/pausar a linha de tempo dos clipes de filme.
+*/
+
+stop();
+
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_8.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_12);
+
+function fl_ClickToGoToAndStopAtFrame_12(event:MouseEvent):void
+{
+	gotoAndStop(21);
+}
+
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_10.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_14);
+
+function fl_ClickToGoToAndStopAtFrame_14(event:MouseEvent):void
+{
+	gotoAndStop(26);
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="20" duration="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_1.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_5);
+
+function fl_ClickToGoToAndStopAtFrame_5(event:MouseEvent):void
+{
+	gotoAndStop(6);
+}
+
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_2.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_6);
+
+function fl_ClickToGoToAndStopAtFrame_6(event:MouseEvent):void
+{
+	gotoAndStop(1);
+}
+
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_3.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_7);
+
+function fl_ClickToGoToAndStopAtFrame_7(event:MouseEvent):void
+{
+	gotoAndStop(11);
+}
+
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_4.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_8);
+
+function fl_ClickToGoToAndStopAtFrame_8(event:MouseEvent):void
+{
+	gotoAndStop(16);
+}
+
+/* Parar neste quadro
+A linha de tempo do Flash vai parar/pausar no quadro em que você inserir este código.
+Também pode ser usado para parar/pausar a linha de tempo dos clipes de filme.
+*/
+
+stop();
+
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_9.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_13);
+
+function fl_ClickToGoToAndStopAtFrame_13(event:MouseEvent):void
+{
+	gotoAndStop(1);
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="25" duration="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_11.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_15);
+
+function fl_ClickToGoToAndStopAtFrame_15(event:MouseEvent):void
+{
+	gotoAndStop(31);
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="30" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_12.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_17);
+
+function fl_ClickToGoToAndStopAtFrame_17(event:MouseEvent):void
+{
+	gotoAndStop(36);
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="31" duration="630" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+/* Clique para ir até o quadro e parar
+Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e para o filme.
+Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+
+Instruções:
+1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+*/
+
+movieClip_12.addEventListener(MouseEvent.CLICK, fl_ClickToGoToAndStopAtFrame_16);
+
+function fl_ClickToGoToAndStopAtFrame_16(event:MouseEvent):void
+{
+	gotoAndStop(36);
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Camada 2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" duration="15" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="black leaf.png">
+                                             <matrix>
+                                                  <Matrix tx="0.5" ty="509.9"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="skip.png">
+                                             <matrix>
+                                                  <Matrix tx="0.5" ty="636.9"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Camada 1" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" duration="15" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Símbolo 1" name="movieClip_10" centerPoint3DX="240.5" centerPoint3DY="428.9">
+                                             <matrix>
+                                                  <Matrix tx="0.5" ty="378.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="240" y="50"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="telas" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="5" name="feed" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="121.25" height="69.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="161" ty="20"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>feed</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="60" bitmapSize="1200" face="TrebuchetMS" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="cruz vermelha.png">
+                                             <matrix>
+                                                  <Matrix tx="-0.5" ty="112.35"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="fish gamer.png">
+                                             <matrix>
+                                                  <Matrix tx="-0.05" ty="229.85"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="formando sonhos.png">
+                                             <matrix>
+                                                  <Matrix ty="346.85"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="left hand.png">
+                                             <matrix>
+                                                  <Matrix tx="-0.05" ty="470.35"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="hoosier.png">
+                                             <matrix>
+                                                  <Matrix ty="588.8"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="skip.png">
+                                             <matrix>
+                                                  <Matrix tx="-0.05" ty="700.3"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMSymbolInstance libraryItemName="btnmenu" name="movieClip_5" centerPoint3DX="41.75" centerPoint3DY="46">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36" y="36"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="5" name="apoio" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="239.15" height="69.7" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="154.3" ty="10.3"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>apoio</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="60" bitmapSize="1200" face="TrebuchetMS" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="funky.png">
+                                             <matrix>
+                                                  <Matrix tx="0.55" ty="108.6"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="ninja.png">
+                                             <matrix>
+                                                  <Matrix tx="-1" ty="229.35"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="skip.png">
+                                             <matrix>
+                                                  <Matrix ty="349.35"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="fish gamer.png">
+                                             <matrix>
+                                                  <Matrix ty="469.35"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="cavaco.png">
+                                             <matrix>
+                                                  <Matrix ty="588.3"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMSymbolInstance libraryItemName="btnmenu2" name="movieClip_6" centerPoint3DX="41.75" centerPoint3DY="46">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36" y="36"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMBitmapInstance libraryItemName="hoosier.png">
+                                             <matrix>
+                                                  <Matrix tx="0.5" ty="700.9"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" duration="5" name="doações" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="216.25" height="69.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="129.45" ty="19.3"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>doações</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="60" face="TrebuchetMS" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="black leaf.png">
+                                             <matrix>
+                                                  <Matrix tx="-0.8" ty="120.1"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="cruz vermelha.png">
+                                             <matrix>
+                                                  <Matrix tx="-1" ty="239.85"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="formando sonhos.png">
+                                             <matrix>
+                                                  <Matrix tx="0.5" ty="359.85"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="vegan burguer.png">
+                                             <matrix>
+                                                  <Matrix tx="-1" ty="477.35"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="medicos sem fronteiras.png">
+                                             <matrix>
+                                                  <Matrix tx="0.5" ty="596.3"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="ong de rua.png">
+                                             <matrix>
+                                                  <Matrix tx="-0.5" ty="699.8"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMSymbolInstance libraryItemName="btnmenu3" name="movieClip_7" centerPoint3DX="41.75" centerPoint3DY="46">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36" y="36"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="5" name="vaquinha" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="241.55" height="69.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="110.8" ty="20.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>vaquinha</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="60" bitmapSize="1200" face="TrebuchetMS" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="hoosier.png">
+                                             <matrix>
+                                                  <Matrix tx="-0.7" ty="123.25"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMSymbolInstance libraryItemName="btnmenu4" name="movieClip_8" centerPoint3DX="41.75" centerPoint3DY="46">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36" y="36"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMBitmapInstance libraryItemName="vegan burguer.png">
+                                             <matrix>
+                                                  <Matrix tx="0.5" ty="249.95"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="20" duration="5" name="menu" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!0 35|0 5!0 5|9580 5!9580 5|9580 35"/>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9580 35|9580 15978"/>
+                                                  <Edge fillStyle1="1" edges="!9580 15978|9580 16008!9580 16008|0 16008!0 16008|0 15978"/>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!0 15978|0 35"/>
+                                                  <Edge fillStyle1="1" edges="!0 35|9580 35"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText width="148.3" height="69.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="154.15" ty="19.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>menu</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="60" bitmapSize="1200" face="TrebuchetMS" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="btnapoio" name="movieClip_1" centerPoint3DX="77" centerPoint3DY="144.25">
+                                             <matrix>
+                                                  <Matrix tx="1.7" ty="107.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="75.3" y="36.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="btnfeed" name="movieClip_2" centerPoint3DX="62.6" centerPoint3DY="262.75">
+                                             <matrix>
+                                                  <Matrix ty="225.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="62.6" y="36.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="btndoação" name="movieClip_3" centerPoint3DX="97.35" centerPoint3DY="395.95">
+                                             <matrix>
+                                                  <Matrix ty="359.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="97.35" y="36.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="btnvaquinha" name="movieClip_4" centerPoint3DX="122.8" centerPoint3DY="498.75">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="461.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="122.75" y="36.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="botaofeed" name="movieClip_9" centerPoint3DX="40.4" centerPoint3DY="49.65">
+                                             <matrix>
+                                                  <Matrix tx="4.4" ty="13.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36" y="36"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="25" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                                  <Edge strokeStyle="1" edges="!1540 14779|1540 14339!7940 14339|7940 14359"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="btnmenu.png">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="cropped-icone-quili-peixe.png">
+                                             <matrix>
+                                                  <Matrix a="0.296875" d="0.296875" tx="43" ty="92.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="256" y="256"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="88.1" height="58.05" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="294.25" ty="94.65"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>fish</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="50" bitmapSize="1000" face="Trebuchet-BoldItalic"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="155.1" height="58.05" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="256.95" ty="136.05"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Gamer</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="50" bitmapSize="1000" face="Trebuchet-BoldItalic"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="389.6" height="124.25" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="50" ty="316.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>O querido fish gamer está iniciando essa&#xD;campanha para arrecadação de verba para &#xD;os sorteios de fim de ano no canal, então &#xD;apoie essa iniciativa e doe aqui para fazer &#xD;o fim de ano de um gamer melhor.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="TrebuchetMS"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Apoie o fish" name="movieClip_11" centerPoint3DX="237" centerPoint3DY="756.45">
+                                             <matrix>
+                                                  <Matrix tx="77" ty="717.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="160" y="38.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="30" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                                  <Edge strokeStyle="1" edges="!1540 14379|7940 14379!7940 14379|7940 15819!7940 15819|1540 15819!1540 15819|1540 14379"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="btnmenu.png">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="118.55" height="23.25" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="50" ty="642.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Valor: 100,00</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="TrebuchetMS"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="219.35" height="23.25" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="50" ty="533.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Beneficiado: Fish Gamer</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="TrebuchetMS"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="322.25" height="23.25" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="50" ty="583.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Doador: Igor Felipy Lopes de França</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="TrebuchetMS"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="117.2" height="18.55" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="349.8" ty="103"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Carteira: 500,00</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="16" bitmapSize="320" face="TrebuchetMS"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="369.35" height="58.05" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="58" ty="136.05"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Finalizar Doação</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="50" bitmapSize="1000" face="TrebuchetMS"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Finalizar" name="movieClip_12" centerPoint3DX="237" centerPoint3DY="754.95">
+                                             <matrix>
+                                                  <Matrix tx="77" ty="718.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="160" y="36"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="35" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="btnmenu.png">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="256.1" height="118.1" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="110.95" ty="163.05"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>   Doação&#xD;Concluída!!</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="50" bitmapSize="1000" face="TrebuchetMS"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="40" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="btnmenu.png">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="45" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853S6|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance selected="true" libraryItemName="btnmenu.png">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance selected="true" libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="50" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853S6|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance selected="true" libraryItemName="btnmenu.png">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance selected="true" libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="55" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853S6|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance selected="true" libraryItemName="btnmenu.png">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance selected="true" libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="60" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853S6|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance selected="true" libraryItemName="btnmenu.png">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance selected="true" libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="65" duration="596" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#00CC00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                                                            <fill>
+                                                                 <SolidColor color="#D6D6D6"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!9600 1853|0 1853!0 1853|0 0!0 0|9600 0!9600 0|9600 1853"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="btnmenu.png">
+                                             <matrix>
+                                                  <Matrix tx="5.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo help us.png">
+                                             <matrix>
+                                                  <Matrix tx="397.75" ty="10"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="background" color="#4FFF4F" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="defaultNewInstanceName" v="movieClip_12"/>
+          <PD n="TestMovieChecked" v="ADLDesktop"/>
+          <PD n="Clique para ir até o quadro e parar" t="i" v="18"/>
+          <PD n="Parar neste quadro" t="i" v="6"/>
+          <PD n="com.air.sdk.path"/>
+          <PD n="snippetCounter" t="i" v="13"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="141181" publishTime="1558968390"/>
+          <PublishItem publishSize="141103" publishTime="1558918953"/>
+          <PublishItem publishSize="141049" publishTime="1558918890"/>
+          <PublishItem publishSize="140752" publishTime="1558918610"/>
+          <PublishItem publishSize="140751" publishTime="1558918548"/>
+          <PublishItem publishSize="140751" publishTime="1558918494"/>
+          <PublishItem publishSize="140751" publishTime="1558918461"/>
+          <PublishItem publishSize="139313" publishTime="1558917678"/>
+          <PublishItem publishSize="104497" publishTime="1554489678"/>
+          <PublishItem publishSize="104249" publishTime="1554489484"/>
+          <PublishItem publishSize="104126" publishTime="1554489400"/>
+          <PublishItem publishSize="104125" publishTime="1554489383"/>
+          <PublishItem publishSize="1135" publishTime="1554323266"/>
+     </publishHistory>
+</DOMDocument>
